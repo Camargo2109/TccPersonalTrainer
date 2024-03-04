@@ -368,11 +368,10 @@ nav.show div.icon-close {
   background-color:var(--card-color);
 }
 
-.card i {
-  display: block;
-  margin-bottom: 1.5rem;
-  font-size: 5rem;
-  color: var(--base-color);
+.card img {
+  background-color: var(--base-color-alt); 
+  padding: 10px;
+  border-radius: 10px; 
 }
 
 .card .title {
